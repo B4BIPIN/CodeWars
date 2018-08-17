@@ -1,0 +1,6 @@
+	
+	CODE WARS
+		Element equals its index
+	function indexEqualsValue(a) {var r = a.filter((element,index)=>element===index); return r.length?r[0]:-1;}
+	
+	
